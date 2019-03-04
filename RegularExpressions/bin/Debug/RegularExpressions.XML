@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RegularExpressions</name>
+    </assembly>
+    <members>
+        <member name="T:RegularExpressions.Entities.Language">
+            <summary>
+            Language Class
+            </summary>
+        </member>
+        <member name="M:RegularExpressions.Entities.Language.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:RegularExpressions.Entities.Language.Copy">
+            <summary>
+            The <c>Copy()</c> method will create a copy of the original
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RegularExpressions.Entities.Language.Concatenation(RegularExpressions.Entities.Language,RegularExpressions.Entities.Language)">
+            <summary>
+            
+            </summary>
+            <param name="A"></param>
+            <param name="B"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RegularExpressions.Entities.Language.KleeneClosure(RegularExpressions.Entities.Language,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="A"></param>
+            <param name="n"></param>
+            <returns></returns>
+        </member>
+        <member name="T:RegularExpressions.frmRegularExpressions">
+            <summary>
+            
+            
+            </summary>
+        </member>
+        <member name="M:RegularExpressions.frmRegularExpressions.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:RegularExpressions.frmRegularExpressions.btnAddAlphabet_Click(System.Object,System.EventArgs)">
+            <summary>
+            This section will contain events of buttons :v
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:RegularExpressions.frmRegularExpressions.components">
+            <summary>
+            Variable del diseñador requerida.
+            </summary>
+        </member>
+        <member name="M:RegularExpressions.frmRegularExpressions.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén utilizando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben eliminar; false en caso contrario.</param>
+        </member>
+        <member name="M:RegularExpressions.frmRegularExpressions.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido del método con el editor de código.
+            </summary>
+        </member>
+        <member name="M:RegularExpressions.Program.Main">
+            <summary>
+            Punto de entrada principal para la aplicación.
+            </summary>
+        </member>
+        <member name="T:RegularExpressions.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:RegularExpressions.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:RegularExpressions.Properties.Resources.Culture">
+            <summary>
+              Invalida la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos usando esta clase de recursos fuertemente tipados.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,18 @@
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Properties.Resources.resources
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.XML
+c:\users\andres\documents\visual studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.frmRegularExpressions.resources
+C:\Users\Andres\Documents\Visual Studio 2012\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.manifest
+C:\Users\Andres\Documents\Visual Studio 2012\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.application
+C:\Users\Andres\Documents\Visual Studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe.manifest
+C:\Users\Andres\Documents\Visual Studio 2012\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.application
+C:\Users\ALUMNO\Documents\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\ALUMNO\Documents\RegularExpressions\bin\Debug\RegularExpressions.XML
+C:\Users\ALUMNO\Documents\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\ALUMNO\Documents\RegularExpressions\obj\Debug\RegularExpressions.pdb
