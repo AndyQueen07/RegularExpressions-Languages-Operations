@@ -138,7 +138,7 @@
             this.txtAlphabet.Name = "txtAlphabet";
             this.txtAlphabet.Size = new System.Drawing.Size(260, 20);
             this.txtAlphabet.TabIndex = 3;
-            this.txtAlphabet.Text = "Alfabeto (COMING SOON)";
+            this.txtAlphabet.Text = "Alfabeto (Coming soon)";
             this.txtAlphabet.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtAlphabet.MouseDown += new System.Windows.Forms.MouseEventHandler(this.txtAlphabet_MouseDown);
             this.txtAlphabet.MouseLeave += new System.EventHandler(this.txtAlphabet_MouseLeave);
